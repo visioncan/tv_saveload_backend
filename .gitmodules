@@ -1,0 +1,3 @@
+[submodule "saveload_backend"]
+	path = saveload_backend
+	url = https://github.com/tradingview/saveload_backend.git
