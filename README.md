@@ -1,5 +1,12 @@
 # Tradingview Charts Save and Load Storage 
 
+## Initial
+
+```sh
+git clone https://github.com/visioncan/tv_saveload_backend.git
+git submodule update --init --recursive
+```
+
 ## Updstrem submodule
 
 ```sh
